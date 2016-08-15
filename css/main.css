@@ -22,26 +22,10 @@ header {
     font-weight: 300;
 }
 main {
-
-    padding-top: 100px;
+    padding-top: 120px;
 }
-
-
-.col-4 {
-  margin-top: 20px;
-}
-
 img {
     width: 100%;
-    border-top: solid 1px #e9e7e8;
-    border-left: solid 1px #e9e7e8;
-    border-right: solid 1px #e9e7e8;
-}
-.border {
-    margin-top: -4px;
-    border-bottom: solid 1px #e9e7e8;
-    border-left: solid 1px #e9e7e8;
-    border-right: solid 1px #e9e7e8;
 }
 h4, p {
     width: 80%;
@@ -50,6 +34,13 @@ h4 {
     font-size: 1em;
     margin: 20px auto 0 auto;
     color: #444;
+}
+.box {
+    border: solid 1px #e9e7e8;
+    margin-bottom: 20px;
+}
+.cotent {
+    width: 100%;
 }
 p {
     font-size: 0.9em;
